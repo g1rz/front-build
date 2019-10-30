@@ -1,0 +1,23 @@
+{
+    "name": "formos-tk",
+    "description": "",
+    "main": "index.js",
+    "authors": [
+        "g1rz"
+    ],
+    "license": "ISC",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "2.*",
+        "slick.js": "*",
+        "magnific-popup": "*",
+        "jquery.inputmask": "*"
+    }
+}
